@@ -1,5 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 master
 =======
 ni hao
 >>>>>>> test
+=======
+master
+
+
+hahaha
+>>>>>>> testing
